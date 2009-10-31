@@ -1,0 +1,29 @@
+#summary One-sentence summary of this page.
+#labels Phase-Deploy,build
+
+= Introduction =
+
+How to build ftk from svn source code?
+
+
+= Details =
+
+<b>download:</b>
+<pre>
+svn checkout http://ftk.googlecode.com/svn/trunk/ ftk-read-only
+</pre>
+<b>configure:</b>
+<pre>
+cd ftk-read-only
+./autogen.sh
+./configure --with-backend=linux-x11:320x480
+</pre>
+<b>build:</b>
+<pre>
+make
+</pre>
+<b>run:</b>
+<pre>
+cd src
+./demo1
+</pre>
