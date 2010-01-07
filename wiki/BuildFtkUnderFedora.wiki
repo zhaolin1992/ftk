@@ -1,0 +1,14 @@
+#summary Build Ftk Under Fedora
+#labels Build,Fedora
+
+= Introduction =
+
+How to Build Ftk Under Fedora12
+
+
+= Details =
+
+Should install these Packages :
+automake autoconf sysconftool libtool libjpeg-devel libpng-devel libX11-devel libXext-devel
+Use the following command to install these packages:
+sudo yum install automake autoconf sysconftool libtool libjpeg-devel libpng-devel libX11-devel libXext-devel
