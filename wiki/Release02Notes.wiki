@@ -6,12 +6,12 @@ ftk-0.2 Release Notes
 
 = Details =
 
-1.bug fix & optimization.
-2.MS windows supported(vs2008 express edition)
-3.Message box
-4.Popup menu
-5.ComboBox
-6.Brink expand animator.
-7.Alpha animator.
-8.Support C++ caller
-9.add --enable-cursor command line option.
+ * bug fix & optimization.
+ * MS windows supported(vs2008 express edition)
+ * Message box
+ * Popup menu
+ * ComboBox
+ * Brink expand animator.
+ * Alpha animator.
+ * Support C++ caller
+ * add --enable-cursor command line option.
