@@ -1,0 +1,15 @@
+#summary Build FTK under ubuntu 9.0.
+
+= Introduction =
+
+Build FTK under ubuntu 9.0
+
+= Details =
+
+ # apt-get install automake
+ # apt-get install autoconf
+ # apt-get install libtool
+ # apt-get install libpng-dev
+ # apt-get install libjpeg-dev
+ # apt-get install libx11-dev
+ # apt-get install libXext-dev
