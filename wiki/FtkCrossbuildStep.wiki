@@ -18,3 +18,5 @@ packages目录(即~/work/packages)并按cross.mk内指定的包下载相应的�
 
 6. 将在~/work/下生成一个arch目录（如果是ARM则生成arm目录,是MIPS则生成mips目录）将此目录拷贝到
 开发板文件系统内相应位置（开发板的~/work/目录－－绝对路径）即可运行bin目录下的./desktop 
+
+注：请在确保编译的用户可以读写/opt目录。
