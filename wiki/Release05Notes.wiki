@@ -1,0 +1,58 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= Introduction =
+
+FTK-0.5 Release Notes
+
+
+= Details =
+===中文===
+ #.完善与优化
+ #.控件改进:
+ * entry 支持输入提示。
+ * label 支持左中右三种对齐方式。
+ * listview 支持滚动文字。.
+ * progressbar 支持文字信息(如百分比).
+ #.支持远程桌面(VNC)(可选).
+ #.支持屏幕旋转。
+ #.用Gettext实现文字翻译。
+ #.支持Opengles(vincent3D)(可选)。
+ #.支持Unicode换行算法(可选)。
+ #.增加GUI自动测试功能(事件记录与重放)。
+ #.增加进程间通信机制(fbus)，为FTK桌面环境奠定基础。
+ #.增加配置服务(fconf).
+ #.实现文件浏览与选择控件。.
+ #.部分应用程序(shell/filebrowser).
+ #.更多硬件平台支持：.
+ * st7781.
+ * zoran TVBOX.
+ * qi-hardware ben.
+ * mini4020
+ #.PSP移植。.
+ #.部分实现文档。
+
+===English===
+ #.Bug fix and optimization.
+ #.Widgets improvements:
+ * entry supports tips.
+ * label supports alignment.
+ * listview supports marquee.
+ * progressbar support text information.
+ #.VNC supported.
+ #.Screen rotate.
+ #.Gettext supported.
+ #.Opengles supported.
+ #.Unicode linebreak.
+ #.Gui autotest tool.
+ #.IPC supported(fbus).
+ #.Config service(fconf).
+ #.Filebrowser and filechooser.
+ #.New applications(shell/filebrowser).
+ #.More hardware supported.
+ * st7781.
+ * zoran TVBOX.
+ * qi-hardware ben.
+ * mini4020
+ #.PSP supported.
+ #.Documents
