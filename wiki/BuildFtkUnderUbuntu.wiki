@@ -1,8 +1,8 @@
-#summary Build FTK under ubuntu 9.0.
+#summary Build FTK under ubuntu 10.04
 
 = Introduction =
 
-Build FTK under ubuntu 9.0
+Build FTK under ubuntu 10.04
 
 = Details =
 
@@ -13,3 +13,4 @@ Build FTK under ubuntu 9.0
  # apt-get install libjpeg-dev
  # apt-get install libx11-dev
  # apt-get install libXext-dev
+ # apt-get install gtk-doc-tools
