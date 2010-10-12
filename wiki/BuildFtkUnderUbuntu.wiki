@@ -16,5 +16,6 @@ Build FTK under ubuntu 10.04
  # apt-get install gtk-doc-tools
 
 if you got a problem like this:"warning: macro `AM_GLIB_GNU_GETTEXT' not found in library"
- # apt-get install libglib2.0-dev
+ 
+ please :# apt-get install libglib2.0-dev
 but you should do "make distclean; ./autogen.sh" before you do "./configure..." again
