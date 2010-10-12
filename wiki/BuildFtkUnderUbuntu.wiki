@@ -14,3 +14,4 @@ Build FTK under ubuntu 10.04
  # apt-get install libx11-dev
  # apt-get install libXext-dev
  # apt-get install gtk-doc-tools
+ # apt-get install libglib2.0-dev
