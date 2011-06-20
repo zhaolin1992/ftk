@@ -1,4 +1,4 @@
-#summary FTK-0.4 Release Notes
+#summary FTK-0.6 Release Notes
 
 = Introduction =
 
